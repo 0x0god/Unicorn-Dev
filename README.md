@@ -6,11 +6,6 @@ It is based on the [Advent](https://www.styleshout.com/free-templates/advent/) H
 - [The Final Countdown](http://hilios.github.io/jQuery.countdown/)
 - [particles.js](http://vincentgarreau.com/particles.js/)
 
-It is merely a simple, responsive and modern webpage template that counts down to the launch of a project currently under development.
-
-### Demo
-If you would like to see what the webpage looks like: [Live Demo](https://unicorndev.net)
-
 ### Features
 - Modern & elegant design
 - Responsive Design
